@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.MoneyTestnew" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-04-23T00:59:51" hostname="DESKTOP-KGB1NJI" time="0.03">
+  <properties/>
+  <testcase name="[1] 100, USD" classname="org.example.MoneyTestnew" time="0.025"/>
+  <testcase name="[2] 200, EUR" classname="org.example.MoneyTestnew" time="0.001"/>
+  <testcase name="[3] 0, JPY" classname="org.example.MoneyTestnew" time="0.001"/>
+  <testcase name="[4] -1, USD" classname="org.example.MoneyTestnew" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
