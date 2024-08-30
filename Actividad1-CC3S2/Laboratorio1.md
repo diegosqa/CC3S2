@@ -26,7 +26,7 @@ Creamos la clase *tests/app.test.js*
 
 Creamos la clase *src/app.js*
 
-![Instalando dependecias](Imagenes/Foto22.PNG)
+![Instalando dependecias](Imagenes/foto22.PNG)
 
 Editamos el archivo *package.json*
 
@@ -41,7 +41,7 @@ Procederemos a crear un archivo *.github/workflows/ci.yml*
 
 Vamos añadirle lo siguiente
 
-![Instalando dependecias](Imagenes/Foto23.PNG)
+![Instalando dependecias](Imagenes/foto23.PNG)
 
 CI Pipeline - Descripción
 
@@ -74,7 +74,7 @@ Luego vamos a revisar en nuestro repo Actions para ver que todo haya salido bien
 
 Dado que nuestro codigo se ha lanzado con un bucle ( ya que nunca se cerraba el servidor por lo que lograba terminar todo, pero los test si funcionaban)
 
-![Instalando dependecias](Imagenes/Foto24.PNG)
+![Instalando dependecias](Imagenes/foto24.PNG)
 
 Entonces se procedio a cambiar las clases para lograr un mejor resultado ( nos guiamos del repositorio del profesor para lograr esto)
 
