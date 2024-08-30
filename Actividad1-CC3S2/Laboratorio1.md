@@ -14,7 +14,7 @@ Este informe detalla el proceso que se ha seguido para realizar la Actividad 1
 ### Iniciando el proyecto
 Antes de iniciar con el proyecto vamos a proceder a crear el la carpeta *devops-practice* e instalaremos todas las dependencias que vamos a necesitar
 
-![Instalando dependecias](../Imagenes/Foto1.png)
+![Instalando dependecias](Actividad1-CC3S2/Imagenes/Foto1.png)
 
 Procedemos a crear las carpetas necesarias para nuestra aplicación *usaremos el editor VI para esto*
 
