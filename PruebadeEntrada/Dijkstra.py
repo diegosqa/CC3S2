@@ -1,4 +1,4 @@
-def dijkstra(Grafo, salida):
+def dijkstra(Grafo, salida,final):
     dist, prev = {}, {}
     result = []
 
@@ -6,8 +6,8 @@ def dijkstra(Grafo, salida):
         dist[vertice] = float("inf")
         prev[vertice] = None
     dist[salida] = 0
-
-    Q = [vertice for vertice in Grafo]
+    #Aca solo usamos ambos vertices para tal motivo
+    Q = [salida,final]
 
     while Q:
         u = min(Q, key=dist.get)
@@ -33,7 +33,13 @@ grafo = {
     'z': {}
 }
 
-s, distancia, previos = dijkstra(grafo, 'a')
+s, distancia, previos = dijkstra(grafo, 'a' , 'e')
 print(f"{s=}")
 print(f"{distancia=}")
 print(f"{previos=}")
+
+
+
+
+
+    
