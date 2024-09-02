@@ -13,3 +13,6 @@ Para este caso, la variable salida lo que va a significar sera el grafo en el cu
 
 # Optimización
 Teniendo en cuenta que usualmente podemos tener grafos muy grandes y pesados, no es tan optimo tener la lista de cada uno por nodo, mejor es hacer un recorrido solamente para los dos vertices donde necesitamos el peso minimo. Entonces la siguiente entrega va a tratar de implementar esto ya teniendo la lógica de la implementación *general*
+
+# Documentación
+Se termino con la documentación y una pequeña optimización del codigo (ha sido muy simple), pero entiendo que ha sido un gran impacto a nivel de complejidad por que no se termina de leer todos los vertices
