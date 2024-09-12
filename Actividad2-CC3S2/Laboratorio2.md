@@ -96,9 +96,7 @@ Asimismo verificamos en el puerto 3001 que se encuentre corriendo grafana para v
 
 ![Instalando dependecias](Imagenes/Foto18.PNG)
 
-Hacemos un push a la main para correr el proceso y nos sale el siguiente mensaje
 
-![Instalando dependecias](Imagenes/Foto19.PNG)
 
 
 
