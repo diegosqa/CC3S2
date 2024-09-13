@@ -120,3 +120,13 @@ Como vemos volvio a la normalidad si ningún cambio
 
 
 ### Ejercicio 5
+![Instalando dependecias](Imagenes/Foto32.PNG)
+![Instalando dependecias](Imagenes/Foto33.PNG)
+![Instalando dependecias](Imagenes/Foto34.PNG)
+![Instalando dependecias](Imagenes/Foto35.PNG)
+![Instalando dependecias](Imagenes/Foto36.PNG)
+![Instalando dependecias](Imagenes/Foto37.PNG)
+![Instalando dependecias](Imagenes/Prueba38.PNG)
+![Instalando dependecias](Imagenes/Foto39.PNG)
+### Ejercicio 6
+![Instalando dependecias](Imagenes/Foto40.PNG)
