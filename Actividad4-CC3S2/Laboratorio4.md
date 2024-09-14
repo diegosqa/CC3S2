@@ -65,3 +65,10 @@ Usaría git revert para deshacer una fusión cuando la fusión se realizó por e
 **¿Qué tan útil es la función de fusión automática en Git?**
 
 La fusión automática en Git es extremadamente útil porque agiliza el proceso de integración de cambios cuando no hay conflictos, permitiendo que los desarrolladores combinen ramas de manera rápida sin intervención manual. Sin embargo, en proyectos más grandes, siempre es recomendable revisar los cambios después de la fusión para asegurarse de que todo esté como se espera.
+
+### Ejercicio con repositorio
+![Instalando dependecias](Imagenes/Foto41.PNG)
+![Instalando dependecias](Imagenes/Foto42.PNG)
+![Instalando dependecias](Imagenes/Foto43.PNG)
+![Instalando dependecias](Imagenes/Foto44.PNG)
+![Instalando dependecias](Imagenes/Foto45.PNG)

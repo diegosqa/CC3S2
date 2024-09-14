@@ -130,3 +130,5 @@ Como vemos volvio a la normalidad si ningún cambio
 ![Instalando dependecias](Imagenes/Foto39.PNG)
 ### Ejercicio 6
 ![Instalando dependecias](Imagenes/Foto40.PNG)
+
+
