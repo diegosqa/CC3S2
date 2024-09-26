@@ -3,7 +3,7 @@
 Alumnos: Diego Sebastian Quispe Amao
 Codigo: 20202222I
 
-Este es la resolución del laboratorio numero 7
+Este es la resolución del laboratorio numero 6
 
 ## Ejercicio 1: git checkout --ours y git checkout --theirs
 
